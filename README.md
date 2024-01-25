@@ -2,6 +2,8 @@
 
 ![User Interface](https://onedrive.live.com/embed?resid=4B1C8510CEF67D18%218518&authkey=%21AGBNIxAg1I7G0PU&width=1915&height=911)
 
+[**LIVE SITE**](https://calorie-tracker-wes-lakins.netlify.app/)
+
 ## Description
 
 The Calorie Tracking Application is a tool designed to help users monitor their daily calorie intake and the calories burned through exercise. It provides a simple and intuitive way to track meals and workouts, assisting users in achieving their fitness and dietary goals.
